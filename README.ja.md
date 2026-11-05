@@ -7,7 +7,6 @@
 70 年代アニメ計器を思わせるアートワークで、システムの状態を「眺めて楽しむ」ツールです。
 
 このリポジトリは **Gigant Monitor Plus（公証済みバイナリ）の配布窓口**です。
-ソースコードは公開していません。
 
 > 通常版「Gigant Monitor」は [Mac App Store](https://apps.apple.com/app/gigant-monitor/id6777906549) で配布しています（無料）。
 > Plus 版は、App Store 版のすべての機能に **消費電力の表示** を加えた、Developer ID の直接配布版です。
