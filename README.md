@@ -7,7 +7,6 @@ shows your system status on purple-and-yellow liquid meters. Its artwork is insp
 and it is a tool for enjoying the view of your system's activity.
 
 This repository is the **distribution point for Gigant Monitor Plus (notarized binaries)**.
-Source code is not published.
 
 > The standard edition, "Gigant Monitor", is available on the [Mac App Store](https://apps.apple.com/app/gigant-monitor/id6777906549) (free).
 > The Plus edition is a Developer ID direct-download build that has everything the App Store edition has, plus **power consumption**.
